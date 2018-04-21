@@ -1,0 +1,4 @@
+#Wed Apr 11 12:13:29 EET 2018
+base.0=C\:\\Users\\Dell\\Desktop\\MusicalStructure\\app\\storage\\sdcard0\\media\\audio\\notifocations\\sample_song\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
